@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "--------------ejecting ------------"
+
 while :
 do
     eject
